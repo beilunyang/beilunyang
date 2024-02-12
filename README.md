@@ -13,6 +13,8 @@ A software developer from China. Hope to code forever.
 [![segmentfault](https://img.shields.io/badge/思否-悖论-008050?style=flat-square)](https://segmentfault.com/u/beilunyang)
 ![wechat](https://img.shields.io/badge/微信号-hansenones-brightgreen?style=flat-square)
 ![wechat2](https://img.shields.io/badge/微信公众号-悖论的技术小屋-brightgreen?style=flat-square)
+[![twitter](https://img.shields.io/twitter/follow/beilunyang.svg?label=beilunyang
+)](https://x.com/beilunyang)
 
 #### Languages and Tools
 
